@@ -1,5 +1,7 @@
 # LendFlow Business Plan: P2P Stablecoin Lending Platform
 
+![image](https://github.com/user-attachments/assets/825d8f16-e96d-461d-a3c9-f55c248e7b72)
+
 ### Executive Summary
 
 LendFlow is a peer-to-peer DeFi lending platform connecting yield-seeking USDC holders with borrowers needing quick loans. Our platform facilitates ETH-collateralized USDC loans, generating revenue through origination fees and yield spread. Target exit is acquisition by a major DeFi protocol or CeFi platform within 12-18 months.
